@@ -1,6 +1,5 @@
 # Modelos de Ruína do Jogador
 
-Trabalho da disciplina **EST0048 — Processos Estocásticos** (UnB).
 Estudo do problema clássico da **Ruína do Jogador** modelado como um passeio
 aleatório em uma cadeia de Markov com barreiras absorventes em `0` (ruína) e
 `N` (vitória), com validação por simulação de Monte Carlo e uma aplicação a
